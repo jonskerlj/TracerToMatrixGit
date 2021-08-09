@@ -1,6 +1,6 @@
 Pillow==6.1.0
 getpass2==1.0.2
 python-docx==0.8.10
-pywin32==224
+pywin32==301
 requests==2.22.0
 yattag==1.12.2
